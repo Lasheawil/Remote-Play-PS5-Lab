@@ -19,8 +19,8 @@ Project consists of installiing PS Remote Play on a Windows PC. This will allow 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select "Settings" cog in upper right hand corner: <br/>
+<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004186.jpg" height="80%" width="80%"/>
 <br />
 <br />
 
