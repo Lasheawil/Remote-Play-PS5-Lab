@@ -32,7 +32,7 @@ Select <strong>System>Remote Play</strong>, and then turn on <strong>Enable Remo
  
 
 <p align="center">
- To start your console while PS5 is in rest mode, select <b>Settings>System>Power Saving>Features Available in Rest Mode</b>:
+ To start your console while PS5 is in rest mode, select <b>Settings>System>Power Saving>Features Available in Rest <br>Mode:<br/></b>:
  
  <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004184.jpg" height="80%" width="80%"/>
  <br/>
