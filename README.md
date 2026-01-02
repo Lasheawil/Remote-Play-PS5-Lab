@@ -19,6 +19,11 @@ Project consists of installiing PS Remote Play on a Windows PC. This will allow 
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Download <b>PS Remote Play</b> and save it to your desired location. Run the installation file and follow the on screen instructions to install.<br/>
+<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004186.jpg" height="80%" width="80%"/>
+<br?>
+
+<p align="center">
 Select "Settings" cog in upper right hand corner: <br/>
 <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004186.jpg" height="80%" width="80%"/>
 <br />
