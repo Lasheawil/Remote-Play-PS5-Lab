@@ -34,6 +34,11 @@ The next screen will require you to sign into your PS account<br/>
 <br />
 
 <p align="center">
+On the next screen, select the system you want to connect to<br/>
+<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/select%20system.png" height="80%" width="80%"/>
+<br />
+
+<p align="center">
 Select "Settings" cog in upper right hand corner: <br/>
 <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004186.jpg" height="80%" width="80%"/>
 <br />
