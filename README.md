@@ -38,7 +38,7 @@ Select <strong>System>Remote Play</strong>, and then turn on <strong>Enable Remo
  <br/>
 
   <p align="center">
- Turn on <b>Stay Connected to the Internet</b> and <b>Enable Turning On PS5 from Network</b>:
+ Turn on <b>Stay Connected to the Internet</b> and <b>Enable Turning On PS5 from Network</b> <br>Then put the PS5 in rest mode.:
  <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/rest%20mode.jpg" height="80%" width="80%"/>
  <br/>
    
@@ -60,6 +60,12 @@ The next screen will require you to sign into your PS account<br/>
 <p align="center">
 On the next screen, select the system you want to connect to<br/>
 <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/select%20system.png" height="80%" width="80%"/>
+<br />
+
+ 
+<p align="center">
+When the connection is completed, the PS5 homescreen will open on your desktop. See the taskbar at the bottom of the screen.<br/>
+<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/completed%20.png" height="80%" width="80%"/>
 <br />
 <!--
  ```diff
