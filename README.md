@@ -38,7 +38,7 @@ Select <strong>System>Remote Play</strong>, and then turn on <strong>Enable Remo
 
   <p align="center">
  Turn on <b>Stay Connected to the Internet</b> and <b>Enable Turning On PS5 from Network</b>:
- <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004184.jpg" height="80%" width="80%"/>
+ <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/rest%20mode.jpg" height="80%" width="80%"/>
  <br/>
 
 <!--
