@@ -24,26 +24,22 @@ Select "Settings" cog in upper right hand corner: <br/>
 <br />
 
 <p align="center">
-Select System>Remote Play, and then turn on Enable Remote Play: <br/>
+Select <strong>System>Remote Play</strong>, and then turn on <strong>Enable Remote Play</strong>: <br/>
 <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004187.jpg" height="80%" width="80%"/>
 <br />
  <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004185.jpg" height="80%" width="80%"/>
  <br />
  
-<p align="center">
- To start your console while PS5 is in rest mode, select <strong>Settings<strong<b>><strong>System<b>><strong>Power Saving<b>><strong>Features Available in Rest Mode</b>:
- 
-<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004184.jpg" height="80%" width="80%"/>
 
 <p align="center">
-  Tutrn on <strong>Stay Connected to the Internet<strong/><b><strong>and<strong/> <b>><strong>Enable Turning On PS5 from Network<b><strong/>Features Available in Rest Mode</b>:
+ To start your console while PS5 is in rest mode, select <b>Settings>System>Power Saving>Features Available in Rest Mode</b>:
+ <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004184.jpg" height="80%" width="80%"/>
  <br/>
-<img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/rest%20mode.jpg" height="80%" width="80%"/>
-<br />
- 
 
-
-</p>
+  <p align="center">
+ Turn on <b>Stay Connected to the Internet</b> and <b>Enable Turning On PS5 from Network</b>:
+ <img src="https://github.com/Lasheawil/Remote-Play-PS5-Lab/blob/main/1000004184.jpg" height="80%" width="80%"/>
+ <br/>
 
 <!--
  ```diff
