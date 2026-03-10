@@ -14,8 +14,8 @@ Project consists of enabling <b>Remote Play</b> on a Playstation and installing 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
-
+- <b>Windows 11 (21H2)</b><br>
+- <b>Orbis OS (PS5 Operating System)</b>
 <h2>Program walk-through:</h2>
 
 <p align="center">
